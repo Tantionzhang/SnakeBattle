@@ -1,0 +1,2 @@
+# SnakeBattle
+SnakeBattle for players
